@@ -51,3 +51,7 @@ if($achievement->greateThanOrEqualTo($criteria))
 差不多完工，郭竞电话中给小伙伴讲解了一下。然后，开始制作他的周六家庭午餐了。  
     
 而这时，微信中许丽敏发来一个动画表情：谢谢你！郭竞回了一个微笑。
+
+[上一章](https://github.com/BardoQi/CodeGuru/blob/master/docs/chapter_002.md  "下一章")
+[目录](https://github.com/BardoQi/CodeGuru  "目录")
+[下一章](https://github.com/BardoQi/CodeGuru/blob/master/docs/chapter_004.md  "下一章")
