@@ -19,5 +19,7 @@
     
 郭竞突然想到，怎么会是他们？
     
+再进电梯，发现广告屏上方多了两个东西，于是用手扣下，放进了自己的口袋。
+    
 [下一章](https://github.com/BardoQi/CodeGuru/blob/master/docs/chapter_001.md  "下一章")
 [目录](https://github.com/BardoQi/CodeGuru  "目录")
