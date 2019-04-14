@@ -98,6 +98,6 @@
 看似有解的问题，实际又进入了一个死角。
     
 
-[上一章](https://github.com/BardoQi/CodeGuru/blob/master/docs/chapter_007.md  "下一章")
+[上一章](https://github.com/BardoQi/CodeGuru/blob/master/docs/chapter_007.md  "上一章")
 [目录](https://github.com/BardoQi/CodeGuru  "目录")
 [下一章](https://github.com/BardoQi/CodeGuru/blob/master/docs/chapter_009.md  "下一章")
