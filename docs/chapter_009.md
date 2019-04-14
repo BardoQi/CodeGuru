@@ -118,7 +118,9 @@
   
 但是，二人越来越觉得相见恨晚。若不是雷太公夫人催促，可能都会聊到天黑。回来的路上，郭竞心中在想，倒底司马南的是真，还是柯云路的是真？
 
-
+[上一章](https://github.com/BardoQi/CodeGuru/blob/master/docs/chapter_008.md  "上一章")
+[目录](https://github.com/BardoQi/CodeGuru  "目录")
+[下一章](https://github.com/BardoQi/CodeGuru/blob/master/docs/chapter_010.md  "下一章")
 
 
 
