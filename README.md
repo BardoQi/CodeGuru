@@ -9,7 +9,7 @@ _________            .___         ________
 # CodeGuru
 "Code Guru" is a novel about a guru of coding writed in Chinese language.
 
-《编程高手》是一部描写一个完美主义的编程高手的小说。
+《编程高手》是一部描写一个完美主义的编程高手的小说。本书力求通过小说的形式向读者，特别是程序员阐述作者的武林心法，以期望每一个程序员读者都能成为高手，成为大牛。本书为纯公益项目。
 
 ## 目录
 
@@ -30,3 +30,9 @@ _________            .___         ________
 [第007章  创业之梦](https://github.com/BardoQi/CodeGuru/blob/master/docs/chapter_007.md )
   
 [第008章  隔山打牛](https://github.com/BardoQi/CodeGuru/blob/master/docs/chapter_008.md )
+
+[第009章  知识诅咒](https://github.com/BardoQi/CodeGuru/blob/master/docs/chapter_009.md )
+  
+[第010章  龙王塘村](https://github.com/BardoQi/CodeGuru/blob/master/docs/chapter_010.md )
+
+[第011章  引狼入室](https://github.com/BardoQi/CodeGuru/blob/master/docs/chapter_011.md )
