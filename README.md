@@ -36,3 +36,5 @@ _________            .___         ________
 [第010章  龙王塘村](https://github.com/BardoQi/CodeGuru/blob/master/docs/chapter_010.md )
 
 [第011章  引狼入室](https://github.com/BardoQi/CodeGuru/blob/master/docs/chapter_011.md )
+
+[第013章  树型结构](https://github.com/BardoQi/CodeGuru/blob/master/docs/chapter_013.md )
